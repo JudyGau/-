@@ -1,0 +1,5 @@
+# Flask==3.0.3
+# numpy==1.24.0
+# Pillow==8.4.0
+# torch==2.3.0
+# torchvision==0.18.0
