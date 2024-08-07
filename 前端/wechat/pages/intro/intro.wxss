@@ -1,0 +1,49 @@
+/* pages/mypage/mypage.wxss */
+/* pages/mypage/mypage.wxss */
+/* .TOP_ID_Image{
+  width: 750rpx;
+  height: 500rpx;
+} */
+/* index.wxss */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20rpx;
+}
+
+.content {
+  background-color: #ffffff;
+  border-radius: 10rpx;
+  box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.1);
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  width: 90%;
+  max-width: 750rpx;
+}
+
+.text-block {
+  margin-bottom: 20rpx;
+}
+
+.title {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 10rpx;
+}
+
+.description {
+  font-size: 28rpx;
+  color: #666666;
+  line-height: 1.5;
+}
+
+.image {
+  width: 96%;
+  max-width: 750rpx;
+  border-radius: 10rpx;
+  box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.1);
+}

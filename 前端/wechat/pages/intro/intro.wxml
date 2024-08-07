@@ -1,0 +1,15 @@
+<view class="container">
+  <view class="content bg-white">
+    <view class="text-block">
+      <view class="title">欢迎使用我们的农产品识别小程序！</view>
+      <view class="description">
+        这款小程序可以帮助用户快速、准确地识别约20余种常见的农产品(详情见类别页)，提供详细的信息和建议。无论您是农民、采购商还是消费者，我们都为您提供了简便易用的工具，助您更好地理解和管理农产品。通过拍摄或上传图片，我们的先进算法将自动识别图中的农产品种类，并展示相关的基本信息，如名称、产地、特点等。此外，我们还提供了专家推荐的食用方法、储存建议和相关的健康信息，帮助您更科学地使用和消费农产品。
+      </view>
+    </view>
+    <view class="text-block">
+      <view class="title">助力精准扶贫、乡村振兴、智慧农业的重大智慧, 将论文写在祖国大地上，写入田间地头里。</view>
+    </view>
+  </view>
+  <image class="image" src="https://imgs.tom.com/travel/202210/1639997703/CONTENT721718e9eddff25a.jpg"></image>
+  
+</view>

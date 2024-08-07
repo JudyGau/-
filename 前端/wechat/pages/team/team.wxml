@@ -1,0 +1,15 @@
+<!-- pages/mypage/mypage.wxml -->
+<view class="container">
+  <view class="section">
+    <view class="title">团队成员：</view>
+    <view class="content">朱齐高</view>
+  </view>
+  
+  <view class="section">
+    <view class="title">任务分配：</view>
+    <view class="content">- 数据集收集与处理：朱齐高</view>
+    <view class="content">- 模型训练：朱齐高</view>
+    <view class="content">- 后端实现：朱齐高</view>
+    <view class="content">- 微信小程序端实现：朱齐高</view>
+  </view>
+</view>

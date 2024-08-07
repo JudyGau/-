@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/about/about",
+    "pages/contact/contact",
+    "pages/intro/intro",
+    "pages/label/label",
+    "pages/logs/logs",
+    "pages/me/me",
+    "pages/team/team"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/ai.png",
+        "selectedIconPath": "image/ai-on.png"
+      },
+      
+      {
+        "pagePath": "pages/about/about",
+        "text": "关于",
+        "iconPath": "image/关于我们off.png",
+        "selectedIconPath": "image/关于我们.png"
+      }
+    ]
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "title",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

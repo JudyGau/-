@@ -1,0 +1,28 @@
+/* pages/mypage/mypage.wxss */
+
+.container {
+  padding: 20rpx;
+  background-color: #ffffff;
+  box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.1);
+  border-radius: 10rpx;
+  margin: 20rpx;
+}
+
+.section {
+  margin-bottom: 20rpx;
+  width: 90%;
+}
+
+.title {
+  font-size: 38rpx;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 10rpx;
+  position: center;
+}
+
+.content {
+  font-size: 32rpx;
+  color: #666666;
+  line-height: 1.5;
+}

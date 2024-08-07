@@ -1,0 +1,19 @@
+<view class="container">
+  <view class="img_wrap">
+    <image src="{{ img }}" mode='aspectFit' />
+  </view>
+  <button bindtap="uploads" class="up">拍照/选取图片识别</button>
+  <view wx:if="{{result.length>0}}" class="table">
+    <view class="tr bg-w">
+      <view class="th">分类名称</view>
+      <view class="th">概率</view>
+    </view>
+    <view wx:for="{{result}}" wx:key="key">
+      <view class="tr bg-g">
+        <view class="td">{{item[0]}}</view>
+        <view class="td">{{item[1]}}</view>
+      </view>
+    </view>
+    <view class="description">{{info[result[0][0]]}}</view>
+  </view>
+</view>

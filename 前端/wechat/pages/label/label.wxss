@@ -1,0 +1,27 @@
+/* pages/mypage/mypage.wxss */
+/* .TOP_ID_Image{
+  width: 750rpx;
+  height: 2600rpx;
+} */
+.table-container {
+  width: 100%; /* 表格容器宽度 */
+  border: 1px solid #ccc; /* 表格边框 */
+  margin-top: 20rpx; /* 上边距 */
+}
+
+.table-row {
+  display: flex; /* 使用 Flex 布局 */
+  flex-direction: row; /* 水平方向排列 */
+  border-bottom: 1px solid #ccc; /* 行边框 */
+}
+
+.header {
+  font-weight: bold; /* 表头加粗 */
+  background-color: #f0f0f0; /* 表头背景色 */
+}
+
+.table-cell {
+  flex: 1; /* 自动填充剩余空间 */
+  padding: 10rpx 20rpx; /* 单元格内边距 */
+  text-align: center; /* 文本居中 */
+}

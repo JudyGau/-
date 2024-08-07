@@ -1,0 +1,93 @@
+<!--pages/mypage/mypage.wxml-->
+<!-- <image class="TOP_ID_Image" src="../../image/crop_label.png">  </image> -->
+<view class="table-container">
+  <!-- 表头 -->
+  <view class="table-row header">
+    <view class="table-cell">类别ID</view>
+    <view class="table-cell">类别名称</view>
+  </view>
+
+  <!-- 表内容 -->
+  <view class="table-row">
+    <view class="table-cell">0</view>
+    <view class="table-cell">土豆</view>
+  </view>
+
+  <view class="table-row">
+    <view class="table-cell">1</view>
+    <view class="table-cell">茄子</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">2</view>
+    <view class="table-cell">香菜</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">3</view>
+    <view class="table-cell">玉米</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">4</view>
+    <view class="table-cell">青椒</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">5</view>
+    <view class="table-cell">韭菜</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">6</view>
+    <view class="table-cell">豌豆</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">7</view>
+    <view class="table-cell">梨子</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">8</view>
+    <view class="table-cell">苹果</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">9</view>
+    <view class="table-cell">西兰花</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">10</view>
+    <view class="table-cell">蒜苗</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">11</view>
+    <view class="table-cell">水稻</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">12</view>
+    <view class="table-cell">小麦</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">13</view>
+    <view class="table-cell">胡萝卜</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">14</view>
+    <view class="table-cell">葡萄</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">15</view>
+    <view class="table-cell">南瓜</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">16</view>
+    <view class="table-cell">黄瓜</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">17</view>
+    <view class="table-cell">香蕉</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">18</view>
+    <view class="table-cell">西红柿</view>
+  </view>
+  <view class="table-row">
+    <view class="table-cell">19</view>
+    <view class="table-cell">西瓜</view>
+  </view>
+
+</view>
